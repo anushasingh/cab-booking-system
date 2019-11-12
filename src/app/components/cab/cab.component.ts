@@ -3,7 +3,6 @@ import { Cab } from "src/app/models/cab";
 import { CabService } from "src/app/services/cab.service";
 import { CarService } from "src/app/services/car.service";
 import { DriverService } from "src/app/services/driver.service";
-import { CabRiderService } from "src/app/services/cab-rider.service";
 
 @Component({
   selector: "app-cab",
